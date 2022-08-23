@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Aggarwal</h1>
-<h3 align="center">I'm a sophomore at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India. Besides programming, I like travelling and playing badminton.</h3>
+<h3 align="center">I'm a pre-final year student at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India. Besides programming, I like travelling and playing badminton.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyakshagg&label=Profile%20views&color=0e75b6&style=flat" alt="pratyakshagg" /> </p>
 
@@ -11,11 +11,10 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Competitive Programming**
+- 💬 Ask me about **Django, JavaScript, Competitive Programming**
 
 - 📫 How to reach me **pratyaksh2002@gmail.com**
 
-- ⚡ Fun fact **I think giant pandas are cute :P**
 
 
 <h3 align="left">Languages and Tools:</h3>
