@@ -6,10 +6,10 @@
 <img width="100" height="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h1>
   
-<h3 font-size="20" align="center">A passionate full stack web developer and machine learning enthusiast.</h3>
+<h3 font-size="20" align="center">A Computer Science and Engineering Undergrad.</h3>
   
-- 🌱 I’m currently learning **Django** 
-- 👯 I’m looking to collaborate on **Django Applications**
+- 🌱 I’m currently learning **Deep Learning** 
+- 👯 I’m looking to collaborate on **Web Development and ML Projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
