@@ -8,7 +8,7 @@
   
 <h3 font-size="20" align="center">A Computer Science and Engineering Undergrad.</h3>
   
-- 🌱 I’m currently learning **Deep Learning** 
+- 🌱 I’m currently learning **Full-Stack Development** 
 - 👯 I’m looking to collaborate on **Web Development and ML Projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
